@@ -1,2 +1,2 @@
-#!BIN
-ECHO RT
+#!BIN/SH
+ECHO "rd"
